@@ -2,7 +2,7 @@
 
 给亚马逊中小卖家的“到手利润”计算器：**售价 − 推荐费 − FBA/仓储 − 采购/头程/关税 − 广告 − 退货 − 汇兑损益 = 真实单件利润**，再按 SKU、按月汇总成利润表。
 
-在线演示：尚未部署，部署后此处更新为真实链接。
+在线演示：https://laomaiai.github.io/profit-calculator/
 
 英文说明见 [README_EN.md](./README_EN.md)。
 

@@ -3,7 +3,7 @@
 A "true take-home profit" calculator for small and mid-size Amazon sellers:
 **sale price − referral fee − FBA/storage − procurement/first-leg/tariffs − ads − returns − FX gain/loss = real per-unit profit**, aggregated by SKU and by month into a P&L.
 
-Live demo: not deployed yet; the link will be added after deployment.
+Live demo: https://laomaiai.github.io/profit-calculator/
 
 Chinese version: [README.md](./README.md).
 
